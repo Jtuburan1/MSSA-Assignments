@@ -9061,11 +9061,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Assignment12_2\\Assignment12_2.csproj",
+      "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Assignment12_2\\Assignment12_2.csproj",
       "projectName": "Assignment12_2",
-      "projectPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Assignment12_2\\Assignment12_2.csproj",
+      "projectPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Assignment12_2\\Assignment12_2.csproj",
       "packagesPath": "C:\\Users\\Bossman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Assignment12_2\\obj\\",
+      "outputPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Assignment12_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bossman\\AppData\\Roaming\\NuGet\\NuGet.Config",

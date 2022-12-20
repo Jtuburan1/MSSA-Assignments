@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\EmpManagementSystem.csproj": {}
+    "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\EmpManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\EmpManagementSystem.csproj": {
+    "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\EmpManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\EmpManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\EmpManagementSystem.csproj",
         "projectName": "EmpManagementSystem",
-        "projectPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\EmpManagementSystem.csproj",
+        "projectPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\EmpManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Bossman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bossman\\AppData\\Roaming\\NuGet\\NuGet.Config",

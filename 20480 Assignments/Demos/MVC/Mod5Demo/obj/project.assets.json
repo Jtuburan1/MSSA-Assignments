@@ -9061,11 +9061,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\Mod5Demo\\Mod5Demo.csproj",
+      "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\Mod5Demo\\Mod5Demo.csproj",
       "projectName": "Mod5Demo",
-      "projectPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\Mod5Demo\\Mod5Demo.csproj",
+      "projectPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\Mod5Demo\\Mod5Demo.csproj",
       "packagesPath": "C:\\Users\\Bossman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\Mod5Demo\\obj\\",
+      "outputPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\Mod5Demo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bossman\\AppData\\Roaming\\NuGet\\NuGet.Config",
