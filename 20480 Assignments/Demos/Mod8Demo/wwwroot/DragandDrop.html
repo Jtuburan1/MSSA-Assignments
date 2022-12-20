@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        #dropBox{
+            width:200px;
+            height:200px;
+            border:5px dashed black;
+            margin:10px 0;
+            background-color:gray;
+        }
+        #dropBox img{
+            margin:10px;
+        }
+    </style>
+    <script>
+        function DragStart(e) {
+            e.dataTransfer.effectAllowed = "move";
+            e.dataTransfer.setData("dragImg", e.target.getAttribute("id"));
+        }
+        function Drop(e) {
+            e.preventDefault();
+            e.stopPropagation();
+            var data = e.dataTransfer.getData("dragImg");
+            e.target.appendChild(document.getElementById(data));
+        }
+        function DragOver(e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+        }
+    </script>
+</head>
+<body>
+    <h2>Drag and drop feature</h2>
+    <p>Drag the image and drop in the drop box!</p>
+    <div id="dropBox" ondragover="DragOver(event)" ondrop="Drop(event)">
+
+    </div>
+    <img src="images/space.png" width="180" height="180" id="dragImg" draggable="true" ondragstart="DragStart(event)" />
+</body>
+</html>

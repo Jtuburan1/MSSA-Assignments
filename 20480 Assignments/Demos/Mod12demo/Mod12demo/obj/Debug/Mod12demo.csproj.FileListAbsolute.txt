@@ -1,0 +1,112 @@
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\Mod12demo.dll.config
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\Mod12demo.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\Mod12demo.pdb
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\csc.exe
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\csc.exe.config
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\csc.rsp
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\csi.exe
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\csi.exe.config
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\csi.rsp
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.AppContext.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Console.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.IO.Compression.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.IO.FileSystem.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.IO.Pipes.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Security.AccessControl.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Security.Claims.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.ValueTuple.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Xml.XPath.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\vbc.exe
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\vbc.exe.config
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\vbc.rsp
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\VBCSCompiler.exe
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\obj\Debug\Mod12demo.csproj.CoreCompileInputs.cache
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\obj\Debug\Mod12demo.csproj.CopyComplete
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\obj\Debug\Mod12demo.dll
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\obj\Debug\Mod12demo.pdb
+C:\Deepali\20480\Mod12\Mod12demo\Mod12demo\obj\Debug\Mod12demo.csproj.AssemblyReference.cache
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\Mod12demo.dll.config
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\Mod12demo.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\Mod12demo.pdb
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\csc.exe
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\csc.exe.config
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\csc.rsp
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\csi.exe
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\csi.exe.config
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\csi.rsp
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.AppContext.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Console.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\vbc.exe
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\vbc.exe.config
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\vbc.rsp
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\obj\Debug\Mod12demo.csproj.AssemblyReference.cache
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\obj\Debug\Mod12demo.csproj.CoreCompileInputs.cache
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\obj\Debug\Mod12demo.csproj.CopyComplete
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\obj\Debug\Mod12demo.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod12demo\Mod12demo\obj\Debug\Mod12demo.pdb

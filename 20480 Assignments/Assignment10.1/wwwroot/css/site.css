@@ -1,0 +1,86 @@
+html {
+  font-size: 14px;
+  margin:auto;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+    .column {
+        width: 100%;
+    }
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.opacity{
+    opacity:1;
+}
+
+.center{
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:auto;
+}
+
+.geoCenter{
+    margin-top:400px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:200px;
+    width: auto;
+    font-size:30px;
+}
+
+.content {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    align-items:center;
+    color: ghostwhite;
+}
+
+body {
+    background: linear-gradient(#000000,#282A3A,#735F32,#C69749);
+    margin: 0;
+}
+
+header {
+    min-height: 50px;
+}
+
+footer {
+    min-height: 50px;
+}
+
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: black;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}

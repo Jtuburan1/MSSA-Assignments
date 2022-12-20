@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Filling Color inside a Circle on the Canvas</title>
+<style>
+	canvas {
+		border: 1px solid #000;
+	}
+</style>
+<script>
+    window.onload = function() {
+        var canvas = document.getElementById("myCanvas");
+        var context = canvas.getContext("2d");
+       
+        context.arc(150, 100, 70, 0, 2 * Math.PI, false);
+        context.fillStyle = "#FB8B89";
+        context.fill();
+        context.lineWidth = 5;
+        context.strokeStyle = "black";
+        context.stroke();
+       
+    };
+</script>
+</head>
+<body>
+    <canvas id="myCanvas" width="300" height="200"></canvas>
+</body>
+</html>

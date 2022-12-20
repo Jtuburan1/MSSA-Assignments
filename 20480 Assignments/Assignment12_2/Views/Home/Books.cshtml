@@ -1,0 +1,36 @@
+﻿@model Assignment12_2.Models.IndexViewModel
+
+@{
+    ViewData["Title"] = "Books";
+}
+
+<h1>Books</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(book => book.Books.First().Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(book => book.Books.First().Title)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Books) {
+        <tr>
+            <td>@Html.DisplayFor(book => item.Id)</td>
+            <td>@Html.DisplayFor(book => item.Title)</td>
+            <td>
+                <a asp-action="Details" asp-controller="Home" asp-route-id="@item.Id">Details</a>
+                <a asp-action="Update" asp-controller="Home" asp-route-id="@item.Id">Update</a>
+                <a asp-action="Delete" asp-controller="Home" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function showPosition() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function (position) {
+                    let positionInfo = "Your current location is latitude: " + position.coords.latitude + " longitude: " + position.coords.longitude + " altitude: " + position.coords.altitudeAccuracy;
+                    document.getElementById("position").innerHTML = positionInfo;
+                });
+            }
+            else {
+                alert("No geolocation available");
+            }
+        }
+    </script>
+</head>
+<body>
+    <div id="position">
+
+    </div>
+    <button type="button" onclick="showPosition()">Show Current Position</button>
+</body>
+</html>

@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Videos</title>
+    <link href="css/site.css" rel="stylesheet" type="text/css" />
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        .column {
+            float: left;
+            width: 33.33%;
+            padding: 5px;
+        }
+
+        /* Clearfix (clear floats) */
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+    </style>
+</head>
+<body>
+    <div class="row">
+        <div class="column">
+            <img src="images/huh.gif" alt="Huh?" style="width:100%">
+        </div>
+        <div class="column">
+            <iframe width="650" height="315" src="https://www.youtube.com/embed/HIcSWuKMwOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="column">
+            <img src="images/huh.gif" alt="Huh?" style="width:100%">
+        </div>
+    </div>
+
+    <footer>
+        <a href="About.html">About</a>
+        <a href="Geolocation.html">Location</a>
+        <a href="Videos.html">Videos</a>
+    </footer>
+</body>
+</html>

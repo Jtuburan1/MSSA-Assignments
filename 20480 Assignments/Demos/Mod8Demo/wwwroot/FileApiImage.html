@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function onLoadBinary() {
+            let fileElem = document.getElementById('imgFile');
+            if (fileElem.files.length != 0 && fileElem.files[0].type.match(/image.*/)) {
+                let reader = new FileReader();
+                //event 1
+                reader.onload = function (e) {
+                    let image = document.getElementById("theImg")
+                    image.src = e.target.result;
+                }
+                //event 2
+                reader.onerror = function (e) { alert("Cannot load the file!") }
+                reader.readAsDataURL(fileElem.files[0]);
+            }
+            else {
+                alert("Please select an image file");
+            }
+        }
+    </script>
+</head>
+<body>
+    <input type="file" id="imgFile" onchange="onLoadBinary()" />
+    <img id="theImg" width="200" height="200" />
+    <video src="videos/sample-mp4-file.mp4" width="200" height="200" loop="loop" muted="muted" controls="controls" poster="images/space.png"></video>
+</body>
+</html>

@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <style>
+        canvas {
+            border: 2px solid darkblue;
+            background-color: lightgreen;
+        }
+    </style>
+</head>
+<body>
+    <h1>Getting started with canvas</h1>
+    <canvas id="myCanvas">No canvas support in this browser</canvas>
+    <canvas id="mycanvas1"></canvas>
+    <script>
+        const canvas = document.getElementById('myCanvas');
+        const context = canvas.getContext('2d');
+        context.fillStyle = "red";
+        context.fillRect(20, 20, canvas.width - 40, canvas.height - 40);
+    </script>
+
+    <script>
+        // Get the canvas element and its drawing context. 
+        const canvas = document.getElementById('myCanvas1');
+        const context = canvas.getContext('2d');
+        // Clear any existing content in the canvas.
+        context.clearRect(0, 0, canvas.width, canvas.height);
+        // Set the stroke color and the fill color.
+        context.strokeStyle = "rgb(0, 0, 255)";
+        context.fillStyle = "rgba(255, 0, 0, 0.75)";
+        // Create a path in absolute coordinates.
+        context.beginPath();
+        context.moveTo(60, 30);
+        context.lineTo(100, 90);
+        context.lineTo(20, 90);
+        // Close the path.
+        context.closePath();
+        // Draw the path as a stroked shape;
+        context.stroke();
+        // Draw the path as a filled shape.
+        context.fill();</script>
+</body>
+</html>

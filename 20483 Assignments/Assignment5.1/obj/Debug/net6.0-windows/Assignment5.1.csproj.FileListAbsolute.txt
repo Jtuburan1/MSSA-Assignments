@@ -1,0 +1,17 @@
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\bin\Debug\net6.0-windows\Assignment5.1.exe
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\bin\Debug\net6.0-windows\Assignment5.1.deps.json
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\bin\Debug\net6.0-windows\Assignment5.1.runtimeconfig.json
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\bin\Debug\net6.0-windows\Assignment5.1.dll
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\bin\Debug\net6.0-windows\Assignment5.1.pdb
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\obj\Debug\net6.0-windows\Assignment5.1.csproj.AssemblyReference.cache
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\obj\Debug\net6.0-windows\Assignment5._1.CalculatorWindow.resources
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\obj\Debug\net6.0-windows\Assignment5.1.csproj.GenerateResource.cache
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\obj\Debug\net6.0-windows\Assignment5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\obj\Debug\net6.0-windows\Assignment5.1.AssemblyInfoInputs.cache
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\obj\Debug\net6.0-windows\Assignment5.1.AssemblyInfo.cs
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\obj\Debug\net6.0-windows\Assignment5.1.csproj.CoreCompileInputs.cache
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\obj\Debug\net6.0-windows\Assignment5.1.dll
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\obj\Debug\net6.0-windows\refint\Assignment5.1.dll
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\obj\Debug\net6.0-windows\Assignment5.1.pdb
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\obj\Debug\net6.0-windows\Assignment5.1.genruntimeconfig.cache
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.1\obj\Debug\net6.0-windows\ref\Assignment5.1.dll

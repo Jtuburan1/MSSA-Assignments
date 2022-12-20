@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Mod14WebWorker/1.0.0": {
+        "runtime": {
+          "Mod14WebWorker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mod14WebWorker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

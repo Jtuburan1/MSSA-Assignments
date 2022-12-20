@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Positioning Demo</title>
+  <style type="text/css">
+    body {
+      text-align:center;
+      
+    }
+
+    p::first-letter{
+        font-weight:bold;
+    }
+    p::selection
+    {
+        background-color:yellow;
+    }
+      article {
+          padding: 10px;
+          border: 2px solid red;
+          /*transform:rotate(30deg);*/
+      }
+
+    div {
+      outline: 2px solid green;
+      margin: 10px;
+      padding: 50px;
+      border: 2px solid black;
+      width: 150px;
+      height : 150px;
+      text-shadow:2px 2px 0 pink;
+      border-radius:5%;
+     
+    }
+    /*zero based*/
+    div:nth-child(even) {
+      font-size: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <article>
+      <p>This is our first line! </p>
+    <div id="one">One</div>
+    <div id="two">Two</div>
+    <div id="three">Three</div>
+    <div id="four">Four</div>
+  </article>
+</body>
+</html>

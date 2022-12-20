@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Example of Using Transparency with Gradients</title>
+<style>      
+	.gradient {
+		width: 900px;
+		height: 700px;
+		/* Fallback for browsers that don't support gradients */
+		background: url("/examples/images/sky.jpg");
+		/* For Safari 5.1 to 6.0 */
+		background: -webkit-linear-gradient(left, rgb(0, 0, 0), rgba(255,255,255,1)), url("/examples/images/sky.jpg");
+		/* For Internet Explorer 10 */
+		background: -ms-linear-gradient(left, rgba(255,255,255,0), rgba(255,255,255,1)), url("/examples/images/sky.jpg");
+		/* Standard syntax */
+		background: linear-gradient(to right, rgb(255, 255,255,0), rgba(255,255,255,1)), url("/examples/images/sky.jpg");
+	}
+</style>
+</head>
+<body>
+    <div class="gradient"></div>
+</body>
+</html> 

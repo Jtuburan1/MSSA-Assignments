@@ -1,0 +1,63 @@
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\ContosoConf.dll.config
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\ContosoConf.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\ContosoConf.pdb
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\Microsoft.Web.Infrastructure.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.Helpers.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.Mvc.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.Razor.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.WebPages.Deployment.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.WebPages.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.WebPages.Razor.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.Helpers.xml
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.Mvc.xml
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.Razor.xml
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.WebPages.xml
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.WebPages.Deployment.xml
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\bin\System.Web.WebPages.Razor.xml
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\obj\Debug\ContosoConf.csprojAssemblyReference.cache
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\obj\Debug\ContosoConf.csproj.CoreCompileInputs.cache
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\obj\Debug\ContosoConf.csproj.CopyComplete
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\obj\Debug\ContosoConf.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\Exercise 2\ContosoConf\obj\Debug\ContosoConf.pdb
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\ContosoConf.dll.config
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\ContosoConf.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\ContosoConf.pdb
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\Microsoft.Web.Infrastructure.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\System.Web.Helpers.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\System.Web.Mvc.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\System.Web.Razor.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\System.Web.WebPages.Deployment.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\System.Web.WebPages.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\System.Web.WebPages.Razor.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\System.Web.Helpers.xml
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\System.Web.Mvc.xml
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\System.Web.Razor.xml
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\System.Web.WebPages.xml
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\System.Web.WebPages.Deployment.xml
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\bin\System.Web.WebPages.Razor.xml
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\obj\Debug\ContosoConf.csprojAssemblyReference.cache
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\obj\Debug\ContosoConf.csproj.CoreCompileInputs.cache
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\obj\Debug\ContosoConf.csproj.CopyComplete
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\obj\Debug\ContosoConf.dll
+C:\Deepali\20480\Mod10\Labfiles\Solution\mod10\ContosoConf\obj\Debug\ContosoConf.pdb
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\ContosoConf.dll.config
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\ContosoConf.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\ContosoConf.pdb
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\System.Web.Helpers.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\System.Web.Mvc.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\System.Web.Razor.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\System.Web.WebPages.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\System.Web.Helpers.xml
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\System.Web.Mvc.xml
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\System.Web.Razor.xml
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\System.Web.WebPages.xml
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\obj\Debug\ContosoConf.csproj.AssemblyReference.cache
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\obj\Debug\ContosoConf.csproj.CoreCompileInputs.cache
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\obj\Debug\ContosoConf.csproj.CopyComplete
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\obj\Debug\ContosoConf.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\mod10\ContosoConf\obj\Debug\ContosoConf.pdb

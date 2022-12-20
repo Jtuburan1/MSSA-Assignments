@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <ul>
+        <li>Sandwiches</li>
+        <li class="cross">Tea</li>
+        <li>Coffee</li>
+    </ul>
+    <script>
+        let matches = document.querySelectorAll("ul li");
+        document.writeln("All li items:" + "<hr>");
+        for (let i = 0; i < matches.length; i++) {
+            document.writeln(matches[i].innerHTML + "<br/>");
+        }
+
+        let crossitems = document.querySelectorAll("ul li.cross");
+        crossitems[0].style.textDecoration = "line-through";
+    </script>
+</body>
+</html>

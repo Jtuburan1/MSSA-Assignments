@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Example of Dynamic Anchor Pseudo-classes</title>
+<style> 
+    a:link {
+        color: blue;
+    }
+    a:visited {
+        color:orange;
+    }
+    a:hover {
+        color: red;
+    }
+    a:active {
+        color: gray;
+    }
+    a:focus {
+        color: yellow;
+    }
+    #square {
+        width: 200px;
+        height: 200px;
+        background: blue;
+        border:dotted;
+    }
+    #circle {
+        width: 200px;
+        height: 200px;
+        background: blue;
+        border-radius: 50%;
+        border:double;
+    } 
+    
+</style>
+</head>
+<body>
+    
+    <p>Visit <a href="https://www.microsoft.com" target="_blank">www.microsoft.com</a></p>
+    <br />
+    <br />
+    <div id="square"></div>
+    <br />
+    <br />
+    <div id="circle"></div>
+
+</body>
+</html>

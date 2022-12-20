@@ -1,0 +1,37 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-color:gray;
+  margin-bottom: 60px;
+  margin:auto;
+}
+
+.container{
+    max-width:70rem;
+    margin:0 auto;
+    padding:0 1rem;
+}
+
+input{
+    border: solid 1px;
+    border-color: black;
+}
+input:valid{
+    border-color:green;
+}
+input:invalid{
+    border-color:red;
+}

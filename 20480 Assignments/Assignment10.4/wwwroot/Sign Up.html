@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html style="background: url('images/water.jpg') no-repeat center center fixed; background-size:cover">
+<head>
+    <meta charset="utf-8" />
+    <title>Sign Up</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+    <div class="w3-container w3-center">
+        <div class="w3-bar-xlarge w3-transparent">
+            <a href="Home.html" class="w3-bar-item w3-button">Home</a>
+            <a href="About Us.html" class="w3-bar-item w3-button">About Us</a>
+            <a href="Sign Up.html" class="w3-bar-item w3-button">Sign Up</a>
+            <a href="Gallery.html" class="w3-bar-item w3-button">Gallery</a>
+            <a href="Contact Us.html" class="w3-bar-item w3-button">Contact Us</a>
+        </div>
+    </div>
+
+    <div class="w3-card-4 w3-display-middle w3-white">
+        <div class="w3-container w3-blue">
+            <h2>Sign Up for Gallery Updates</h2>
+        </div>
+        <form class="w3-container" action="/action_page.php">
+            <p>
+                <label class="w3-text-black"><b>First Name</b></label>
+                <input class="w3-input w3-border w3-sand" name="first" type="text">
+            </p>
+            <p>
+                <label class="w3-text-black"><b>Last Name</b></label>
+                <input class="w3-input w3-border w3-sand" name="last" type="text">
+            </p>
+            <p>
+                <label class="w3-text-black"><b>Email Address</b></label>
+                <input class="w3-input w3-border w3-sand" name="last" type="text">
+            </p>
+            <select class="w3-select" name="option">
+                <option value="" disabled selected>How Did You Hear About Us?</option>
+                <option value="1">Through a friend</option>
+                <option value="2">Social Media</option>
+                <option value="3">Internet Search</option>
+                <option value="3">Other</option>
+            </select>
+            <input class="w3-check" type="checkbox" checked="checked">
+            <label>Check to receive deals through email!</label>
+            <p>
+                <button class="w3-btn w3-blue">Register</button>
+            </p>
+        </form>
+    </div>
+</body>
+</html>

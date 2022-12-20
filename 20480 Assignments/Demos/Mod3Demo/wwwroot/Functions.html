@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function GetSum() {
+            let txt1 = document.getElementById("txtBox1");
+            let txt2 = document.getElementById("txtBox2");
+            let sum = parseInt(txt1.value) + parseInt(txt2.value);
+            alert("Sum is " + sum);
+        }
+    </script>
+</head>
+<body>
+    <input type="button" value="Get Sum" onclick="GetSum()" />
+    <br />
+    <input type="text" id="txtBox1" />
+    <br />
+    <input type="text" id="txtBox2" />
+</body>
+</html>

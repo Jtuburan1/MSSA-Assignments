@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<html style="background: linear-gradient(to right, #FDFCFB, #E2D1C3)">
+<head>
+    <meta charset="utf-8" />
+    <title>Gallery</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        .container {
+            position: relative;
+        }
+
+        .image {
+            opacity: 1;
+            display: block;
+            width: 100%;
+            height: auto;
+            transition: .5s ease;
+            backface-visibility: hidden;
+        }
+
+        .middle {
+            transition: .5s ease;
+            opacity: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+        .container:hover .image {
+            opacity: 0.3;
+        }
+
+        .container:hover .middle {
+            opacity: 1;
+        }
+
+        .text {
+            background-color: transparent;
+            color: black;
+            font-size: 16px;
+            padding: 16px 32px;
+        }
+        }
+    </style>
+</head>
+<body>
+    <div class="w3-container w3-center">
+        <div class="w3-bar-xlarge w3-transparent">
+            <a href="Home.html" class="w3-bar-item w3-button">Home</a>
+            <a href="About Us.html" class="w3-bar-item w3-button">About Us</a>
+            <a href="Sign Up.html" class="w3-bar-item w3-button">Sign Up</a>
+            <a href="Gallery.html" class="w3-bar-item w3-button">Gallery</a>
+            <a href="Contact Us.html" class="w3-bar-item w3-button">Contact Us</a>
+        </div>
+    </div>
+
+    <h1 class="w3-center">Gallery</h1>
+
+    <div class="w3-row-padding" id="myGrid" style="margin-bottom:100px">
+        <div class="w3-third">
+            <div class="container">
+                <img src="gallery1/azhar-j--27Pzw5c_kU-unsplash.jpg" class="image" style="width:100%; padding-bottom:10px">
+                <div class="middle">
+                    <div class="text">Mountain Sunset</div>
+                    <div class="text">$59.99</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="gallery1/casey-horner-DXu4o-QI1VY-unsplash.jpg" class="image" style="width:100%; padding-bottom:10px">
+                <div class="middle">
+                    <div class="text">Lake With Mountain Sunset</div>
+                    <div class="text">$49.99</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="gallery1/chris-leipelt-iWP4O-8gchE-unsplash.jpg" class="image" style="width:100%; padding-bottom:10px">
+                <div class="middle">
+                    <div class="text">Snowy Mountain Forest</div>
+                    <div class="text">$79.99</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-third">
+            <div class="container">
+                <img src="gallery1/damian-markutt-t5zd13bixkQ-unsplash.jpg" class="image" style="width:100%; padding-bottom:10px">
+                <div class="middle">
+                    <div class="text">Serene Creek</div>
+                    <div class="text">$39.99</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="gallery1/daniel-sessler-pwkHJXr01bQ-unsplash.jpg" class="image" style="width:100%; padding-bottom:10px">
+                <div class="middle">
+                    <div class="text">Isolated Island</div>
+                    <div class="text">$59.99</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="gallery1/daniel-sessler-ZMqZ5u23l6U-unsplash.jpg" class="image" style="width:100%; padding-bottom:10px">
+                <div class="middle">
+                    <div class="text">Lush Mountainside Forest</div>
+                    <div class="text">$59.99</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="w3-third">
+            <div class="container">
+                <img src="gallery1/daniil-silantev-TWDH8HW46_A-unsplash.jpg" class="image" style="width:100%; padding-bottom:10px">
+                <div class="middle">
+                    <div class="text">Snowy Forest Sunset</div>
+                    <div class="text">$89.99</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="gallery1/stefan-stefancik-TPv9dh822VA-unsplash.jpg" class="image" style="width:100%; padding-bottom:10px">
+                <div class="middle">
+                    <div class="text">Mountain View Clear Sky</div>
+                    <div class="text">$99.99</div>
+                </div>
+            </div>
+            <div class="container">
+                <img src="gallery1/tevin-trinh-xzPSjPdRcC0-unsplash.jpg" class="image" style="width:100%; padding-bottom:10px">
+                <div class="middle">
+                    <div class="text">Cloudy Plains</div>
+                    <div class="text">$59.99</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <footer>
+        <div class="w3-bar w3-center" style="padding-bottom:20px">
+            <a href="Gallery3.html" class="w3-button">&laquo;</a>
+            <a href="Gallery.html" class="w3-button w3-green">1</a>
+            <a href="Gallery2.html" class="w3-button">2</a>
+            <a href="Gallery3.html" class="w3-button">3</a>
+            <a href="Gallery2.html" class="w3-button">&raquo;</a>
+        </div>
+    </footer>
+
+</body>
+</html>

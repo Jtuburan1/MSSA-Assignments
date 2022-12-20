@@ -1,0 +1,16 @@
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\bin\Debug\Assignment5.3.exe.config
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\bin\Debug\Assignment5.3.exe
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\bin\Debug\Assignment5.3.pdb
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\obj\Debug\Assignment5.3.csproj.AssemblyReference.cache
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\obj\Debug\Assignment5.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\obj\Debug\Assignment5._3.NewStudentPopup.resources
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\obj\Debug\Assignment5._3.StudentsPage.resources
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\obj\Debug\Assignment5._3.Properties.Resources.resources
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\obj\Debug\Assignment5.3.csproj.GenerateResource.cache
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\obj\Debug\Assignment5.3.csproj.CoreCompileInputs.cache
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\obj\Debug\Assignment5.3.exe
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\obj\Debug\Assignment5.3.pdb
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\obj\Debug\Assignment5._3.LogonPage.resources
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bossman\Desktop\Assigments\20483 Assignments\Assignment5.3\obj\Debug\Assignment5.3.csproj.CopyComplete

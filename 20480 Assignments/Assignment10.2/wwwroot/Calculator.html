@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="css/site.css" rel="stylesheet" type="text/css" />
+    <script>
+        function Sum() {
+            let num1 = document.getElementById("numOne");
+            let num2 = document.getElementById("numTwo");
+            let total = parseInt(num1.value) + parseInt(num2.value);
+            alert("The sum is: " + total);
+        }
+        function Difference() {
+            let num1 = document.getElementById("numOne");
+            let num2 = document.getElementById("numTwo");
+            let total = parseInt(num1.value) - parseInt(num2.value);
+            alert("The difference is: " + total);
+        }
+        function Product() {
+            let num1 = document.getElementById("numOne");
+            let num2 = document.getElementById("numTwo");
+            let total = parseInt(num1.value) * parseInt(num2.value);
+            alert("The product is: " + total);
+        }
+        function Quotient() {
+            let num1 = document.getElementById("numOne");
+            let num2 = document.getElementById("numTwo");
+            let total = parseInt(num1.value) / parseInt(num2.value);
+            alert("The quotient is: " + total);
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h2>Calculator</h2>
+        <form name="calculator">
+            <fieldset>
+                <legend>Enter 2 numbers to calculate here:</legend>
+                <div id="num1">
+                    Number 1: <input type="text" required autofocus id="numOne" />
+                </div>
+                <div id="num2">
+                    Number 2: <input type="text" required id="numTwo" />
+                </div>
+                <input type="button" value="Add" onclick="Sum()" />
+                <input type="button" value="Subtract" onclick="Difference()" />
+                <input type="button" value="Multiply" onclick="Product()" />
+                <input type="button" value="Divide" onclick="Quotient()" />
+            </fieldset>
+        </form>
+    </div>
+</body>
+</html>

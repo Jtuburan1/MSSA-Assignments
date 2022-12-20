@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script>
+        let x = 10;
+        document.writeln(++x);  //prints 11
+        document.writeln("<br/>");
+        let num1 = 10;
+        let num2 = "10";
+        if (num1 == num2) { //checking if they are equal in value
+            document.writeln("value is equal");
+        }
+        if (num1 === num2) { // if they are equal in both value and type
+            document.writeln("equal in both value and type");
+        }
+        let num3 = num1 + 30;
+        let num4 = 30;
+        num4 += 10;
+        num4 %= 3;
+        document.writeln("<br/>");
+        document.writeln(num4);
+        document.writeln("<br/>");
+
+        let now = new Date();
+        document.writeln(now);
+        document.writeln("<br/>");
+        let dayOfWeek = now.getDay();
+        document.writeln(`The day is ${dayOfWeek}`);
+    </script>
+</body>
+</html>

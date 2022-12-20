@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Example of CSS3 perspective-origin Property</title>
+<style>
+	.container{
+		width: 325px;
+		height: 325px;
+		perspective: 300px;
+		perspective-origin: 20% top;
+		border: 4px solid #a2b058;
+		background: #f0f5d8;
+	}
+	.transformed {
+		-webkit-transform: rotate3d(0, 1, 0, 60deg); /* Chrome, Safari, Opera */
+		transform: rotate3d(0, 1, 0, 60deg); /* Standard syntax */
+	}
+</style>
+</head>
+<body>
+	<div class="container">
+        <img src="/images/fungi.jpg" class="transformed" alt="Fungi">
+    </div>
+</body>
+</html>

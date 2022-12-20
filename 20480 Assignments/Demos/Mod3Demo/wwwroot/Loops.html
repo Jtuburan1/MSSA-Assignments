@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function DisplayFruits() {
+            let fruits = ["Apple", "Blueberry", "Oranges"];
+            let text = "";
+            for (let i = 0; i < fruits.length; i++) {
+                text += fruits[i] + "<br/>";
+            }
+            document.getElementById("fruits").innerHTML = text;
+        }
+    </script>
+</head>
+<body>
+    <h3>List of fruits:</h3>
+    <input type="button" value="Get Fruits" onclick="DisplayFruits()" />
+
+    <p id="fruits"></p>
+    <script>
+        var d = new Date();
+        switch (d.getDay()) {
+            case 1:
+                document.writeln("Monday");
+                break;
+            case 2:
+                document.writeln("Tuesday");
+                break;
+            case 3:
+                document.writeln("Wednesday");
+                break;
+            case 4:
+                document.writeln("Thursday");
+                break;
+            case 5:
+                document.writeln("Friday");
+                break;
+            case 6:
+                document.writeln("Saturday");
+                break;
+            case 7:
+                document.writeln("Sunday");
+                break;
+            default:
+                break;
+        }
+        var num = 0;
+        while (num < 10) {
+            num++;
+        }
+    </script>
+</body>
+</html>

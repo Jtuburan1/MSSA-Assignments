@@ -1,0 +1,52 @@
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\bin\Debug\net6.0\appsettings.Development.json
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\bin\Debug\net6.0\appsettings.json
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\bin\Debug\net6.0\Mod1Demo2.staticwebassets.runtime.json
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\bin\Debug\net6.0\Mod1Demo2.exe
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\bin\Debug\net6.0\Mod1Demo2.deps.json
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\bin\Debug\net6.0\Mod1Demo2.runtimeconfig.json
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\bin\Debug\net6.0\Mod1Demo2.dll
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\bin\Debug\net6.0\ref\Mod1Demo2.dll
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\bin\Debug\net6.0\Mod1Demo2.pdb
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.csproj.AssemblyReference.cache
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.AssemblyInfoInputs.cache
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.AssemblyInfo.cs
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.csproj.CoreCompileInputs.cache
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.MvcApplicationPartsAssemblyInfo.cache
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.RazorAssemblyInfo.cache
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.RazorAssemblyInfo.cs
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\scopedcss\bundle\Mod1Demo2.styles.css
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\scopedcss\projectbundle\Mod1Demo2.bundle.scp.css
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.dll
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\ref\Mod1Demo2.dll
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.pdb
+C:\Training\MSSA\20480\PCAD7\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.genruntimeconfig.cache
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.pdb
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\bin\Debug\net6.0\appsettings.json
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\bin\Debug\net6.0\Mod1Demo2.staticwebassets.runtime.json
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\bin\Debug\net6.0\Mod1Demo2.exe
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\bin\Debug\net6.0\Mod1Demo2.deps.json
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\bin\Debug\net6.0\Mod1Demo2.runtimeconfig.json
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\bin\Debug\net6.0\Mod1Demo2.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\bin\Debug\net6.0\Mod1Demo2.pdb
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.csproj.AssemblyReference.cache
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.AssemblyInfoInputs.cache
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.AssemblyInfo.cs
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.csproj.CoreCompileInputs.cache
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.RazorAssemblyInfo.cache
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.RazorAssemblyInfo.cs
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\scopedcss\bundle\Mod1Demo2.styles.css
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\scopedcss\projectbundle\Mod1Demo2.bundle.scp.css
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\refint\Mod1Demo2.dll
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\Mod1Demo2.genruntimeconfig.cache
+C:\Users\Bossman\Desktop\Assigments\20480 Assignments\Demos\Mod1Demo2\obj\Debug\net6.0\ref\Mod1Demo2.dll

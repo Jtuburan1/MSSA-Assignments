@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function GetVeggies() {
+            let veggies = ["Beans", "Squash", "Broccolli"];
+            let text = "My veggies are ";
+            veggies.forEach(DisplayVeggies);
+
+            function DisplayVeggies(veg) {
+                text = text + veg + ", ";
+            }
+            document.getElementById("veggies").innerHTML = text;
+            let p = document.getElementById("veggies");
+            p.style.fontWeight = "bold";
+            p.style.color = "white";
+            document.body.style.backgroundColor = "#00008B";
+        }
+    </script>
+</head>
+<body>
+    <input type="button" value="Get Veggies" onclick="GetVeggies()" />
+    <p id="veggies"></p>
+</body>
+</html>

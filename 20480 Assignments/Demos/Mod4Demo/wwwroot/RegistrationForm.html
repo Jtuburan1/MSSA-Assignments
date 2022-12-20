@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Registration Form</title>
+    <link href="css/site.css" rel="stylesheet" type="text/css" />
+    <script src="js/NewHobby.js" type="text/javascript"></script>
+    <script>
+        function ValidatePassword() {
+            let val1 = document.forms["registerform"]["pwd"].value;
+            let val2 = document.forms["registerform"]["pwdcnfm"].value;
+            if (val1 != val2) {
+                alert("Please enter same password value");
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h2>Registration Form</h2>
+        <form name="registerform" method="post" onsubmit="ValidatePassword()">
+            <fieldset>
+                <legend>Enter your information here:</legend>
+                <div id="fName">
+                    First Name: <input type="text" required autofocus placeholder="Enter your first name" />
+                </div>
+                <div id="lName">
+                    Last Name: <input type="text" required placeholder="Enter your last name" />
+                </div>
+                <div id="email">
+                    Email Address: <input type="email" required pattern="^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$" placeholder="Enter your email address" />
+                </div>
+                <div id="phone">
+                    Phone Number: <input type="tel" pattern="[0-9()]{13}" placeholder="1(888)1234567" />
+                </div>
+                <div id="address">
+                    Address: <textarea maxlength="200"></textarea>
+                </div>
+                <div id="dob">
+                    Date Of Birth: <input type="date" required />
+                </div>
+                <div id="agecategory">
+                    Age Category: <input list="agerange" />
+                    <datalist id="agerange">
+                        <option value="18-25"></option>
+                        <option value="26-45"></option>
+                        <option value="46-65"></option>
+                    </datalist>
+                </div>
+                <div id="favecolor">
+                    Favourite Color: <input type="color" />
+                </div>
+                <div id="username">
+                    Username: <input type="text" maxlength="15"/>
+                </div>
+                <div id="password">
+                    Password: <input type="password" name="pwd" autocomplete="off" required />
+                </div>
+                <div id="passwordconfirm">
+                    Confirm Password: <input type="password" name="pwdcnfm" autocomplete="off" required />
+                </div>
+                <div id="hobbieslist">
+                    My Hobbies: <input type="text" name="hobby" class="hobbiesInput" />
+                    <button type="button" id="newHobbyBtn">Add new hobby!</button>
+                </div>
+            </fieldset>
+            <input type="submit" value="Register" />
+            <input type="reset" value="Reset Form" />
+        </form>
+    </div>
+
+</body>
+</html>

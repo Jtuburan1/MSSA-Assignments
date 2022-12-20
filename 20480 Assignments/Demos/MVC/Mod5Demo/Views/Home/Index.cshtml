@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about Razor Views.</p>
+</div>
+
+<p>Sample HTML links</p>
+<br />
+@Html.ActionLink("Click to go to test method!", "Test", "Home")
+
+<a asp-controller="Home" asp-action="Privacy">Click here to view privacy policy</a>
+
+
+@for(int i=0;i<5;i++)
+{
+    <span>@i</span>
+}
+
+@{
+    int k = 5;
+    if(k==5)
+    {
+        <div>The value is 5</div>
+    }
+}
+
+@@Copyright
+
+Contact us @@: mailto@@gmail.com
+
+@await Html.PartialAsync("_PartialView") @*partial view added*@

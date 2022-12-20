@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        var worker;
+        function startWorker()
+        {
+            worker = new Worker("/js/DedicatedWorker.js");
+            worker.postMessage("start");
+            worker.onmessage = update;
+
+        }
+        // named function (event handler)
+        function update(e) {
+            document.getElementById("result").innerHTML = e.data;
+
+
+        }
+        function stopWorker() {
+
+            worker.terminate();
+        }
+
+    </script>
+</head>
+<body>
+    <button onclick="startWorker()" type="button">Start worker</button>
+    <button onclick="stopWorker()" type="button">Stop worker</button>
+    <div id="result"></div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+﻿@inject Mod3Demo.Services.IRandom random
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h1>Display</h1>
+
+<div>
+    Value from Viewbag: @ViewBag.number
+</div>
+<p>
+    Value from injected service: @random.GetNumber()
+</p>

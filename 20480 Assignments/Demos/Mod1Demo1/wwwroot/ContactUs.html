@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Contact Us</title>
+    <script>
+        alert('calling js functionality inline');
+    </script>
+    <script type="text/javascript" src="js/site.js"></script>
+    <noscript>
+        alert('please enable JavaScript for full functionality on browser');
+    </noscript>
+</head>
+<body>
+    <h1>Contact Us!</h1>
+    <form method="post"><!--Still need to add an "action" section in order to get the loop to be finished-->
+        <label>First Name:</label>
+        <input type="text" id="txtFName" /><br />
+        <label>Last Name:</label>
+        <input type="text" id="txtLName" /><br />
+        <label>Email:</label>
+        <input type="text" id="txtEmail" /><br />
+        <label>Message:</label>
+        <textarea id="txtMessage"></textarea><br />
+        <button type="submit">SEND IT!</button>
+        <button type="reset">Reset</button>
+    </form>
+</body>
+</html>

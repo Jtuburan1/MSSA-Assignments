@@ -1,0 +1,15 @@
+﻿@model Mod4Demo.Models.Person
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h1>Display</h1>
+<div class="text-center">
+
+    @*Include display related logic only in the view. Do not include any complex business logic or calculations*@
+    Person data: @Model.ID @Model.Name
+    <br />
+    Server Time: @ViewBag.servertime
+    <br />
+    Server Data: @ViewData["data"], @ViewData["temp"]
+</div>

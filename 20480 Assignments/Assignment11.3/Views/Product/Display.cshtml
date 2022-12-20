@@ -1,0 +1,42 @@
+﻿@model Assignment11._3.Models.IndexViewModel
+
+@{
+    ViewData["Title"] = "Display";
+}
+
+<h1>Display</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table" style="background-color:white">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Products.First().ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Products.First().productName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Products.First().productDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Products.First().productPrice)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Products) {
+        <tr>
+            <td>@Html.DisplayFor(modelitem => item.ID)</td>
+            <td>@Html.DisplayFor(modelitem => item.productName)</td>
+            <td>@Html.DisplayFor(modelitem => item.productDescription)</td>
+            <td>@Html.DisplayFor(modelitem => item.productPrice)</td>
+            <td>
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
