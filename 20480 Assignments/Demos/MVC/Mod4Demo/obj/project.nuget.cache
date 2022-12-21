@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NW7YrbnVT4BrkEnUCQoZlPRmEFh9rVDL9+sheK6wVV9EcBXVL1w3FerFSzw+Ak67fn23m9ySqS0RcwNlgmiOEg==",
+  "dgSpecHash": "aMsn2WIhoKPEAI2s5yh6BDhnVpfEeG0YhJkB21JQD4x+ixmIloRUfyNUh3+pGDmMeO3siORC1a95QQ+74Do+BQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\Mod4Demo\\Mod4Demo.csproj",
+  "projectFilePath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\Mod4Demo\\Mod4Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bossman\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Bossman\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

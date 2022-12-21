@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\ProductManagementSystem\\ProductManagementSystem.csproj": {}
+    "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\ProductManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\ProductManagementSystem\\ProductManagementSystem.csproj": {
+    "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\ProductManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\ProductManagementSystem\\ProductManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\ProductManagementSystem.csproj",
         "projectName": "ProductManagementSystem",
-        "projectPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\ProductManagementSystem\\ProductManagementSystem.csproj",
+        "projectPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\ProductManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Bossman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\ProductManagementSystem\\obj\\",
+        "outputPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bossman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

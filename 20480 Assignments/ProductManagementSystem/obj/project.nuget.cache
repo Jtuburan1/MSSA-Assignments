@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YZpEDTJ2mhttquF5bBpFlhDO0n0bW1q5ZBQwURwhpcPr7osy/uA9rvocg6ucZwVitWTvBFiZANmTXv78pa1NgQ==",
+  "dgSpecHash": "rO00nj2G0opXK2USFrWW6GSaIAcApoQ4vVl2PqFezMbfA6x9fSi+m0g+NePt/OCIEpa4h90S7wlipBe57uWdrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\ProductManagementSystem\\ProductManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\ProductManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bossman\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Bossman\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

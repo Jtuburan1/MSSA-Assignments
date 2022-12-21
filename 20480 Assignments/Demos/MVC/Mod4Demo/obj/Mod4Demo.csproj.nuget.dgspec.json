@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\Mod4Demo\\Mod4Demo.csproj": {}
+    "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\Mod4Demo\\Mod4Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\Mod4Demo\\Mod4Demo.csproj": {
+    "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\Mod4Demo\\Mod4Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\Mod4Demo\\Mod4Demo.csproj",
+        "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\Mod4Demo\\Mod4Demo.csproj",
         "projectName": "Mod4Demo",
-        "projectPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\Mod4Demo\\Mod4Demo.csproj",
+        "projectPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\Mod4Demo\\Mod4Demo.csproj",
         "packagesPath": "C:\\Users\\Bossman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Demos\\MVC\\Mod4Demo\\obj\\",
+        "outputPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\Mod4Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bossman\\AppData\\Roaming\\NuGet\\NuGet.Config",

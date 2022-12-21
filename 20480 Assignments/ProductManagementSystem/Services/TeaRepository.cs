@@ -16,12 +16,16 @@ namespace ProductManagementSystem.Services
         }
         public void AddTea(Tea tea)
         {
-            throw new NotImplementedException();
+            _tea.Add(tea);
         }
 
         public void DeleteTea(int? id)
         {
-            throw new NotImplementedException();
+            var teaToDelete = _tea.Find(x => x.Id == id);
+            if(teaToDelete != null)
+            {
+                _tea.Remove(teaToDelete);
+            }
         }
 
         public List<Tea> GetAllTeas()
@@ -31,7 +35,8 @@ namespace ProductManagementSystem.Services
 
         public int GetMaxID()
         {
-            throw new NotImplementedException();
+            int maxID = _tea.Max(x => x.Id);
+            return maxID + 1;
         }
 
         public Tea GetTea(int? id)
@@ -48,7 +53,15 @@ namespace ProductManagementSystem.Services
 
         public void UpdateTea(Tea tea)
         {
-            throw new NotImplementedException();
+            var teaToUpdate = _tea.Find(x => x.Id == tea.Id);
+            if(teaToUpdate != null )
+            {
+                teaToUpdate.Id = tea.Id;
+                teaToUpdate.Name = tea.Name;
+                teaToUpdate.Description = tea.Description;
+                teaToUpdate.Price = tea.Price;
+                teaToUpdate.ImageName = tea.ImageName;
+            }
         }
     }
 }
