@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\atlwcs.jpg",
+      "PackagePath": "staticwebassets\\images\\atlwcs.jpg"
+    },
+    {
       "Id": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\darjeeling.jpg",
       "PackagePath": "staticwebassets\\images\\darjeeling.jpg"
     },
@@ -23,6 +27,10 @@
     {
       "Id": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\oolong.jpg",
       "PackagePath": "staticwebassets\\images\\oolong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\oolong1.jpg",
+      "PackagePath": "staticwebassets\\images\\oolong1.jpg"
     },
     {
       "Id": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\sencha.jpg",

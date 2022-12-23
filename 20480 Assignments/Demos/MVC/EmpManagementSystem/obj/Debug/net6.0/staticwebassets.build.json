@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dQjtN8ZSeMcIXMSq2vEZdxCoAzy4seTAflB5eu2qJfs=",
+  "Hash": "2goeXtcXkeIddmsePYI59xIFEJ8F0igZAetkdMP7koU=",
   "Source": "EmpManagementSystem",
   "BasePath": "_content/EmpManagementSystem",
   "Mode": "Default",
@@ -119,6 +119,23 @@
       "OriginalItemSpec": "wwwroot\\images\\logan.jpg"
     },
     {
+      "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\wwwroot\\images\\matcha.jpg",
+      "SourceId": "EmpManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\wwwroot\\",
+      "BasePath": "_content/EmpManagementSystem",
+      "RelativePath": "images/matcha.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\matcha.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\wwwroot\\images\\michael.jpg",
       "SourceId": "EmpManagementSystem",
       "SourceType": "Discovered",
@@ -151,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\nathan.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\wwwroot\\images\\oolong.jpg",
+      "SourceId": "EmpManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\wwwroot\\",
+      "BasePath": "_content/EmpManagementSystem",
+      "RelativePath": "images/oolong.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\oolong.jpg"
     },
     {
       "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\wwwroot\\images\\sarah.jpg",

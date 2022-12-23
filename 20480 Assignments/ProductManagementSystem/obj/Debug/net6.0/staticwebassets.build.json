@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3EupxiXjOVgKG/hQOrHOpGYr1JVgj4JXRKPtu519sIk=",
+  "Hash": "fZR/dDYxtOMaNQJZ+asn0Nrtkb7ykWKUx8N2rqTqhLA=",
   "Source": "ProductManagementSystem",
   "BasePath": "_content/ProductManagementSystem",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\atlwcs.jpg",
+      "SourceId": "ProductManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\",
+      "BasePath": "_content/ProductManagementSystem",
+      "RelativePath": "images/atlwcs.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\atlwcs.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\darjeeling.jpg",
       "SourceId": "ProductManagementSystem",
       "SourceType": "Discovered",
@@ -134,6 +151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\oolong.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\oolong1.jpg",
+      "SourceId": "ProductManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\",
+      "BasePath": "_content/ProductManagementSystem",
+      "RelativePath": "images/oolong1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\oolong1.jpg"
     },
     {
       "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\sencha.jpg",
