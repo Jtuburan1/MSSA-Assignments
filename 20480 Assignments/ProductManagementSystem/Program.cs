@@ -10,6 +10,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<ITeaRepository, DBCRUDTea>();
 builder.Services.AddScoped<IFileUpload, FileUpload>();
 builder.Services.AddDbContext<TeaContext>(options => options.UseSqlite("Data Source = TeaLounge.DB"));
+//builder.Services.AddDbContext<TeaContext>(options => options.UseSqlServer("Server=DESKTOP-6DJ6U5N\\SQLEXPRESS;Database=TeaProductDB;Trusted_Connection=true;MultipleActiveResultSets=True;TrustServerCertificate=True"));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

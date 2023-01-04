@@ -15,6 +15,11 @@ namespace ProductManagementSystem.Controllers
             this.fileUpload = fileUpload;
         }
 
+        public IActionResult About()
+        {
+            return View();
+        }
+
         // takes you to index view
         public IActionResult Index()
         {

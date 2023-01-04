@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\aboutpagebackground.jpg",
+      "PackagePath": "staticwebassets\\images\\aboutpagebackground.jpg"
+    },
+    {
       "Id": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\atlwcs.jpg",
       "PackagePath": "staticwebassets\\images\\atlwcs.jpg"
     },

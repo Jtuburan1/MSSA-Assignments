@@ -21,6 +21,11 @@ namespace EmpManagementSystem.Controllers
             return View(model);
         }
 
+        public IActionResult About()
+        {
+            return View();
+        }
+
         public IActionResult Details(int? id)
         {
             var emp = cRUD.GetEmployee(id);

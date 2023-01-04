@@ -29,7 +29,6 @@ namespace ProductManagementSystem.Models
 
         [Display(Name = "Tea Description")]
         [DataType(DataType.MultilineText)]
-        [MaxLength(500)]
         public string? Description { get; set; }
 
         [DataType(DataType.Currency)]

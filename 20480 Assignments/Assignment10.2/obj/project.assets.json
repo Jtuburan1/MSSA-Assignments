@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Assignment10.2\\Assignment10.2.csproj",
+      "projectUniqueName": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Assignment10.2\\Assignment10.2.csproj",
       "projectName": "Assignment10.2",
-      "projectPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Assignment10.2\\Assignment10.2.csproj",
+      "projectPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Assignment10.2\\Assignment10.2.csproj",
       "packagesPath": "C:\\Users\\Bossman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\20480 Assignments\\Assignment10.2\\obj\\",
+      "outputPath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Assignment10.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bossman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

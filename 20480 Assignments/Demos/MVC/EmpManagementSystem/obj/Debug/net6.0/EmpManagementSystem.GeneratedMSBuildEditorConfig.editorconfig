@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\EmpManagementSystem
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Bossman/Desktop/Assigments/MSSA-Assignments/20480 Assignments/Demos/MVC/EmpManagementSystem/Views/Employee/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Bossman/Desktop/Assigments/MSSA-Assignments/20480 Assignments/Demos/MVC/EmpManagementSystem/Views/Employee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Bossman/Desktop/Assigments/MSSA-Assignments/20480 Assignments/Demos/MVC/EmpManagementSystem/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Bossman/Desktop/Assigments/MSSA-Assignments/20480 Assignments/Demos/MVC/EmpManagementSystem/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +50,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Bossman/Desktop/Assigments/MSSA-Assignments/20480 Assignments/Demos/MVC/EmpManagementSystem/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Bossman/Desktop/Assigments/MSSA-Assignments/20480 Assignments/Demos/MVC/EmpManagementSystem/Views/Shared/_LayoutAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Bossman/Desktop/Assigments/MSSA-Assignments/20480 Assignments/Demos/MVC/EmpManagementSystem/Views/Shared/_ValidationScriptsPartial.cshtml]
