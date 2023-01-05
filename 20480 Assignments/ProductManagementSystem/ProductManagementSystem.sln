@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManagementSystem", "ProductManagementSystem.csproj", "{C41E82BE-1714-444C-89A7-950D35878BB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagementSystem", "ProductManagementSystem.csproj", "{C41E82BE-1714-444C-89A7-950D35878BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeAPI", "..\EmployeeAPI\EmployeeAPI.csproj", "{3EAA5689-DE07-4CDD-A7B6-75522979AFC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C41E82BE-1714-444C-89A7-950D35878BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C41E82BE-1714-444C-89A7-950D35878BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C41E82BE-1714-444C-89A7-950D35878BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAA5689-DE07-4CDD-A7B6-75522979AFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAA5689-DE07-4CDD-A7B6-75522979AFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAA5689-DE07-4CDD-A7B6-75522979AFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAA5689-DE07-4CDD-A7B6-75522979AFC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -15,6 +15,9 @@ namespace EmpManagementSystem.Controllers
 
         public IActionResult Index()
         {
+            int i = 30, j = 0;
+
+            int result = i / j;
             return View();
         }
 

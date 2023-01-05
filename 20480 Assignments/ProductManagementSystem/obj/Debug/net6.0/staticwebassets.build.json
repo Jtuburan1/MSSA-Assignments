@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VcjrUIvR5ylfVqGkQIAwpb/x1YEDi/gSjVevJhQHWSo=",
+  "Hash": "Jrb6/5HcxeqDFAle+zWouD9FjGR0FEVemzJygXUF+hI=",
   "Source": "ProductManagementSystem",
   "BasePath": "_content/ProductManagementSystem",
   "Mode": "Default",
@@ -119,6 +119,23 @@
       "OriginalItemSpec": "wwwroot\\images\\atlwcs.jpg"
     },
     {
+      "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\dannydevito.jpg",
+      "SourceId": "ProductManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\",
+      "BasePath": "_content/ProductManagementSystem",
+      "RelativePath": "images/dannydevito.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\dannydevito.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\darjeeling.jpg",
       "SourceId": "ProductManagementSystem",
       "SourceType": "Discovered",
@@ -185,6 +202,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\oolong1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\sadcat.jpg",
+      "SourceId": "ProductManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\",
+      "BasePath": "_content/ProductManagementSystem",
+      "RelativePath": "images/sadcat.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sadcat.jpg"
     },
     {
       "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\sencha.jpg",

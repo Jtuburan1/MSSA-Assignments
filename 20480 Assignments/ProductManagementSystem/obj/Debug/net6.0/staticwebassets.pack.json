@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\atlwcs.jpg"
     },
     {
+      "Id": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\dannydevito.jpg",
+      "PackagePath": "staticwebassets\\images\\dannydevito.jpg"
+    },
+    {
       "Id": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\darjeeling.jpg",
       "PackagePath": "staticwebassets\\images\\darjeeling.jpg"
     },
@@ -35,6 +39,10 @@
     {
       "Id": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\oolong1.jpg",
       "PackagePath": "staticwebassets\\images\\oolong1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\sadcat.jpg",
+      "PackagePath": "staticwebassets\\images\\sadcat.jpg"
     },
     {
       "Id": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\ProductManagementSystem\\wwwroot\\images\\sencha.jpg",
