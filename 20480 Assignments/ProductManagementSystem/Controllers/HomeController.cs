@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ProductManagementSystem.Models;
 using System;
 using System.Diagnostics;
@@ -17,6 +18,7 @@ namespace ProductManagementSystem.Controllers
             this.httpClientFactory = httpClientFactory;
         }
 
+        [AllowAnonymous]
         public IActionResult Index()
         {
             //int x = 0;
@@ -24,14 +26,21 @@ namespace ProductManagementSystem.Controllers
             return View();
         }
 
+        [Authorize(Roles = "Employee")]
         public IActionResult Display()
         {
             HttpClient httpClient = httpClientFactory.CreateClient();
-            httpClient.BaseAddress = new Uri("http://localhost:5046");
-            var response = httpClient.GetFromJsonAsync<List<Employee>>("http://localhost:5046/api/Employee");
+            httpClient.BaseAddress = new Uri("http://localhost:43690");
+            var response = httpClient.GetFromJsonAsync<List<Employee>>("http://localhost:43690/api/Employee");
 
             List<Employee> people = response.Result;
             return View(people);
+        }
+
+        [AllowAnonymous]
+        public IActionResult Menu()
+        {
+            return View();
         }
 
         public IActionResult Privacy()

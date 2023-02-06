@@ -1,0 +1,113 @@
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.exe
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.deps.json
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.runtimeconfig.json
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.runtimeconfig.dev.json
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.pdb
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.Views.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.Views.pdb
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.csproj.AssemblyReference.cache
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.AssemblyInfoInputs.cache
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.AssemblyInfo.cs
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.csproj.CoreCompileInputs.cache
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.RazorAssemblyInfo.cache
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.RazorAssemblyInfo.cs
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\scopedcss\bundle\StateExample.styles.css
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\staticwebassets\StateExample.StaticWebAssets.Manifest.cache
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.TagHelpers.input.cache
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.TagHelpers.output.cache
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.RazorCoreGenerate.cache
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\Razor\Views\Another\Index.cshtml.g.cs
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.RazorTargetAssemblyInfo.cache
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.RazorTargetAssemblyInfo.cs
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.Views.pdb
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.csproj.CopyComplete
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\refint\StateExample.dll
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.pdb
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.genruntimeconfig.cache
+C:\Deepali\20486D-DevelopingASPNETMVCWebApplications-master\20486D-DevelopingASPNETMVCWebApplications-master\Allfiles\Mod12\Democode\02_StateExample_end\StateExample\obj\Debug\net5.0\ref\StateExample.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.exe
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.deps.json
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.runtimeconfig.json
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.runtimeconfig.dev.json
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.pdb
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.Views.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\StateExample.Views.pdb
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\NuGet.Frameworks.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.csproj.AssemblyReference.cache
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.AssemblyInfoInputs.cache
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.AssemblyInfo.cs
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.csproj.CoreCompileInputs.cache
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.RazorAssemblyInfo.cache
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.RazorAssemblyInfo.cs
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\scopedcss\bundle\StateExample.styles.css
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\staticwebassets\StateExample.StaticWebAssets.Manifest.cache
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\staticwebassets\StateExample.StaticWebAssets.Pack.cache
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\staticwebassets\msbuild.StateExample.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\staticwebassets\msbuild.build.StateExample.props
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.StateExample.props
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.StateExample.props
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.TagHelpers.input.cache
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.TagHelpers.output.cache
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.RazorCoreGenerate.cache
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\Razor\Views\Another\Index.cshtml.g.cs
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.RazorTargetAssemblyInfo.cache
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.RazorTargetAssemblyInfo.cs
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.Views.pdb
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.csproj.CopyComplete
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\refint\StateExample.dll
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.pdb
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\StateExample.genruntimeconfig.cache
+C:\Users\Bossman\Desktop\Assigments\MSSA-Assignments\20480 Assignments\Demos\MVC\02_StateExample_end\StateExample\obj\Debug\net5.0\ref\StateExample.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xp59FIHkbXPEg+QWaRzOU4hzMNBxIwWvn1ZiJ2+8CuZxPs13QLSAOz9nLaolRICWvK4hFjFxa9JuksRmaqA6mQ==",
+  "dgSpecHash": "HhveIeN2E+o8wmwcxPj9ZPPgTzfAPC+zz6x94roSc2TL7p7cQXlXGl4YOKVkrUCI2sZz49PlQYJ2QoDq8MHtrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\EmpManagementSystem\\EmpManagementSystem.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,9 @@
     "C:\\Users\\Bossman\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Bossman\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\Bossman\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.12\\microsoft.aspnetcore.cryptography.internal.6.0.12.nupkg.sha512",
+    "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.12\\microsoft.aspnetcore.cryptography.keyderivation.6.0.12.nupkg.sha512",
+    "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.12\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.12.nupkg.sha512",
     "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.build\\17.3.2\\microsoft.build.17.3.2.nupkg.sha512",
@@ -50,6 +53,8 @@
     "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.extensions.identity.core\\6.0.12\\microsoft.extensions.identity.core.6.0.12.nupkg.sha512",
+    "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.extensions.identity.stores\\6.0.12\\microsoft.extensions.identity.stores.6.0.12.nupkg.sha512",
     "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Bossman\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",

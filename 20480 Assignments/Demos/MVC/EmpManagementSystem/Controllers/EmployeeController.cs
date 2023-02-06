@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using EmpManagementSystem.Services;
 using EmpManagementSystem.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EmpManagementSystem.Controllers
 {
@@ -14,6 +15,7 @@ namespace EmpManagementSystem.Controllers
             this.fileUpload = fileUpload;
         }
 
+        [Authorize(Roles ="Employee")]
         public IActionResult Index()
         {
             IndexViewModel model = new IndexViewModel();
@@ -26,6 +28,7 @@ namespace EmpManagementSystem.Controllers
             return View();
         }
 
+        [Authorize(Roles ="Employee")]
         public IActionResult Details(int? id)
         {
             var emp = cRUD.GetEmployee(id);
@@ -36,6 +39,7 @@ namespace EmpManagementSystem.Controllers
             return View(emp);
         }
 
+        [Authorize(Roles = "Admin")]
         public IActionResult Edit(int? id)
         {
             var empToEdit = cRUD.GetEmployee(id);
@@ -54,6 +58,7 @@ namespace EmpManagementSystem.Controllers
             return View(obj);
         }
 
+        [Authorize(Roles = "Admin")]
         public IActionResult Delete(int? id)
         {
             cRUD.DeleteEmployee(id);
@@ -61,6 +66,7 @@ namespace EmpManagementSystem.Controllers
         }
 
         // This is your http get request
+        [Authorize(Roles ="Admin")]
         public IActionResult Create()
         {
             var empNew = new Employee();

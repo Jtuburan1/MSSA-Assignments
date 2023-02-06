@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ProductManagementSystem.Models;
 using ProductManagementSystem.Services;
 
@@ -20,6 +21,7 @@ namespace ProductManagementSystem.Controllers
             return View();
         }
 
+        [Authorize(Roles = "Customer")]
         // takes you to index view
         public IActionResult Index()
         {
@@ -28,6 +30,7 @@ namespace ProductManagementSystem.Controllers
             return View(teas);
         }
 
+        [AllowAnonymous]
         // takes you to details view
         public IActionResult Details(int? id)
         {
@@ -39,6 +42,7 @@ namespace ProductManagementSystem.Controllers
             return View(tea);
         }
 
+        [Authorize(Roles = "Admin")]
         // Get portion of the create action. Takes you to the Create View
         public IActionResult Create()
         {
@@ -69,6 +73,7 @@ namespace ProductManagementSystem.Controllers
             return View(obj);
         }
 
+        [Authorize(Roles = "Admin")]
         // Takes the id of the Tea you clicked and sends it to your edit view so you can change it.
         public IActionResult Edit(int? id)
         {
@@ -103,6 +108,7 @@ namespace ProductManagementSystem.Controllers
             return View(obj);
         }
 
+        [Authorize(Roles = "Admin")]
         public IActionResult Delete(int? id)
         {
             teaReposit.DeleteTea(id);

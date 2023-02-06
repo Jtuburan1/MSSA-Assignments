@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "hHjfCC+BFxmsPtt/ytdfEL2gFLa14hYgrOaOsSpGDrc=",
+  "Source": "StateExample",
+  "BasePath": "_content/StateExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StateExample\\wwwroot",
+      "Source": "StateExample",
+      "ContentRoot": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\02_StateExample_end\\StateExample\\wwwroot\\",
+      "BasePath": "_content/StateExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\02_StateExample_end\\StateExample\\wwwroot\\css\\style.css",
+      "SourceId": "StateExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bossman\\Desktop\\Assigments\\MSSA-Assignments\\20480 Assignments\\Demos\\MVC\\02_StateExample_end\\StateExample\\wwwroot\\",
+      "BasePath": "_content/StateExample",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
